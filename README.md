@@ -18,22 +18,7 @@ Before using the Text Analysis Toolkit, make sure you have the following prerequ
 Python 3.x
 Required Python libraries (specified in each script)
 Dependencies for specific scripts (e.g., NLTK, scikit-learn)
-Installation
-Clone this repository to your local machine:
 
-bash
-Copy code
-git clone https://github.com/yourusername/text-analysis-toolkit.git
-Navigate to the project directory:
-
-bash
-Copy code
-cd text-analysis-toolkit
-Install the required Python libraries:
-
-bash
-Copy code
-pip install -r requirements.txt
 Usage
 Script 1: Data Preprocessing and Movie Information Extraction
 This script focuses on data preprocessing and extracting information about movies from a dataset. It includes functions for text preprocessing, extracting movie directors, and classifying text as reviews or mentions. It also trains a logistic regression classifier to classify text.
